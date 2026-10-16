@@ -1,0 +1,6 @@
+/minishell
+.build/
+*.o
+*.d
+*.swp
+a.out
